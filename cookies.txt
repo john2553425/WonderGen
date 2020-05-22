@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.altsforyou.org	TRUE	/	FALSE	1999999999	__cfduid	d968d4a94533608e2d31c9702d00b2a701590059257
+altsforyou.org	TRUE	/	FALSE	1999999999	SameSite	Lax
+
